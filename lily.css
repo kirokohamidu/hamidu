@@ -1,0 +1,28 @@
+div {
+		background-color:#ffffff;
+		margin-left: 25%;
+		border:1px solid #d9d9d9;
+		box-shadow:6px 6px 6px 6px #d9d9d9;
+		height:400px;
+		width:50%;
+}
+
+div.header{
+	background-color:#ffffff;
+	margin-left: 25%;
+	margin-top:15px;
+	border:1px solid #d9d9d9;
+	height: 100px;
+	width:50%;
+}
+
+div.ham{
+	background-color:#ffffff;
+	margin-left: 25%;
+	text-align:center;
+	color:green;
+	margin-top:15px;
+	border:1px solid #d9d9d9;
+	height: 90px;
+	width:50%;
+}
